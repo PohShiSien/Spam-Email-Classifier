@@ -1,4 +1,4 @@
-📧 Spam Email Classifier using Machine Learning
+# 📧 Spam Email Classifier using Machine Learning
 🚀 A machine learning project to classify emails as Spam or Ham (Not Spam) using Natural Language Processing (NLP) and Logistic Regression.
 
 🔍 Overview
